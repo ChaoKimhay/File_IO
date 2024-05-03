@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lombok">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Program Files/JetBrains/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Program Files/JetBrains/text-table-formatter-1.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
